@@ -130,3 +130,9 @@ strong {
   color: #d3d3d3;
   font-size: 18px;
 }
+.flex-svg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
